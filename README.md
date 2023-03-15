@@ -3,8 +3,6 @@
 
 **WillyArmstrong/WillyArmstrong** is a ✨ _special_ ✨ repository
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Assignment 2 info602
 - 🌱 I’m currently learning how to code using c#
 - 👯 I’m looking to collaborate on assignment 2 with Carl, Martin and Stephen
